@@ -1,0 +1,20 @@
+main {
+    background-color: #333;
+}
+#filmes {
+    margin-top: 40px;
+}
+
+.filme {
+    border: 1px solid #ccc;
+    padding: 20px;
+    background-color: #eee;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    text-align: center;
+    font-weight: 600;
+}
+.filme img {
+    width: 100%;
+    margin-bottom: 10px;
+}
